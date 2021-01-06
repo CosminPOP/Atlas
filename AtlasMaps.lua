@@ -226,6 +226,7 @@ AtlasMaps = {
 		{ GREY.."10) "..BB["Rotgrip"], NPC, 13596 };
 		{ GREY.."11) "..BB["Princess Theradras"], NPC, 12201 };
 		{ GREY.."12) "..AL["Elder Splitrock"].." ("..AL["Lunar Festival"]..")", NPC, 15556 };
+		{ GREY.."13) Trash Mobs ", NPC, 15556 };
 	};
 	DireMaulEast = {
 		ZoneName = { BZ["Dire Maul"].." ("..AL["East"]..")", 2557 };
