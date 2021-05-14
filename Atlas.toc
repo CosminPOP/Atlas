@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: Atlas |cff7fff7f -Ace2-|r
+## Title: Atlas TW Edition
 ## Notes: Atlas: instance Map Browser
 ## Notes-deDE: Instanzkarten-Browser
 ## Notes-frFR: Navigateur de cartes d'instances
