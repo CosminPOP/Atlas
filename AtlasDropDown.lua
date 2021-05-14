@@ -125,6 +125,7 @@ Atlas_DropDownLayouts = {
 			"LordKazzak",
 			"Turtlhu",
 			"Nerubian",
+			"Reaver",
 		},
 		[GREN..ATLAS_DDL_TYPE_ENTRANCE] = {
 			"BlackfathomDeepsEnt",
@@ -203,6 +204,7 @@ Atlas_DropDownLayouts = {
 			"LordKazzak",
 			"Turtlhu",
 			"Nerubian",
+			"Reaver",
 		},
 		[GREN..ATLAS_DDL_TYPE_ENTRANCE] = {
 			"BlackfathomDeepsEnt",
@@ -277,6 +279,7 @@ Atlas_DropDownLayouts = {
 			"LordKazzak",
 			"Turtlhu",
 			"Nerubian",
+			"Reaver",
 		},
 		[GREN..ATLAS_DDL_TYPE_ENTRANCE] = {
 			"BlackfathomDeepsEnt",
@@ -351,6 +354,7 @@ Atlas_DropDownLayouts = {
 			"LordKazzak",
 			"Turtlhu",
 			"Nerubian",
+			"Reaver",
 		},
 		[GREN..ATLAS_DDL_TYPE_ENTRANCE] = {
 			"BlackfathomDeepsEnt",
@@ -494,6 +498,7 @@ Atlas_DropDownLayouts = {
 			"LordKazzak",
 			"Turtlhu",
 			"Nerubian",
+			"Reaver",
 		},
 		[GREN..ATLAS_DDL_TYPE_ENTRANCE] = {
 			"BlackfathomDeepsEnt",
